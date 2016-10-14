@@ -60,4 +60,4 @@ We use project postmortems to collect and share specific and generalized learnin
 
 ## Feedback
 
-Is something missing? Feel free to let [Reid](https://github.com/ReidWilliams/) and [Gavin](https://github.com/gavinmcdermott) know and they'll be in touch.
+Is something missing? Feel free to let [Reid](https://github.com/ReidWilliams/) or [Gavin](https://github.com/gavinmcdermott) know and they'll be in touch.
