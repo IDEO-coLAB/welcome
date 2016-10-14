@@ -46,6 +46,8 @@ We use Git, GitHub, and a specific Git branching strategy paired with pull reque
 
 We have a number of forkable base repos that you should use if you're creating a longer-lived project that will be built with, or (at some point) handed off and maintained by, CoLab engineering. 
 
+Each repo contains its own install and usage instructions.
+
 *Note how these repos follow the naming conventions mentioned above.*
 
 ### New Javascript Projects
