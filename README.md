@@ -1,11 +1,9 @@
 # Welcome!
 
-Welcome to CoLab engineering! This repo is your entry point into the CoLab ecosystem, and provides links to other useful repos. This repo was specifically created to answer to these questions that are typical when starting to work with a new engineering team:
+Welcome to CoLab engineering! This repo is your entry point into the CoLab ecosystem, and provides links to other useful repos. This repo was specifically created to answer to these questions:
 
 - Does the CoLab have any standard engineering tools, processes, and conventions?
 - Where can I start learning and using the above?
-
-With that said, dive in!
 
 ## Table of Contents
 
@@ -36,8 +34,7 @@ For a living example, the CoLab's React template repo is primarily a javascript 
 
 We use Git, GitHub, and a specific Git branching strategy paired with pull requests to keep production code in a clean state. Learn more about how we use these tools in our Git documentation.
 
-- **Repo Link**: [Git Docs](https://github.com/IDEO-coLAB/docs-git)
-- **Repo Name**: `docs-git`
+- **Repo Link**: [`docs-git`](https://github.com/IDEO-coLAB/docs-git)
 
 ## <a name="new"></a>Starting a New Project
 
@@ -45,22 +42,21 @@ We have a number of forkable base repos that you should use if you're creating a
 
 ### New Javascript Projects
 
-- `forkable-js-base`
-  * Link: [forkable-js-base](https://github.com/IDEO-coLAB/forkable-js-base)
-  * Description: The CoLab's base repo for all new JavaScript projects.
-  * When to use: Any time you're creating a new JS project for the CoLab, regardless of whether it is client or server side.
+#### `forkable-js-base`
+- **Repo Link**: [forkable-js-base](https://github.com/IDEO-coLAB/forkable-js-base)
+- **Repo Description**: The CoLab's base repo for all new JavaScript projects.
+- **When to Use**: Any time you're creating a new JS project for the CoLab, regardless of whether it is client or server side.
   
-- `forkable-js-react-static`
-  * Link: [forkable-js-react-static](https://github.com/IDEO-coLAB/forkable-js-react-static)
-  * Description: The CoLab's base repo for creating new static React sites (This means that the project does not include any server component to it and is expected to be bundled and served from somewhere).
-  * When to use: Any time you're creating a new static React project for the CoLab.
+#### `forkable-js-react-static`
+- **Repo Link**: [forkable-js-react-static](https://github.com/IDEO-coLAB/forkable-js-react-static)
+- **Repo Description**: The CoLab's base repo for creating new static React sites (This means that the project does not include any server component to it and is expected to be bundled and served from somewhere).
+- **When to Use**: Any time you're creating a new static React project for the CoLab.
 
 ## Improvement
 
 We use project postmortems to collect and share specific and generalized learnings across the team. Whenever a project phase or build concludes, we take time to synthesize and share any important specific and generalizable learnings with the rest of the team.
 
-- **Repo Link**: [Postmortems](https://github.com/IDEO-coLAB/docs-postmortems)
-- **Repo Name**: `docs-postmortems`
+- **Repo Link**: [`docs-postmortems`](https://github.com/IDEO-coLAB/docs-postmortems)
 
 ## Feedback
 
