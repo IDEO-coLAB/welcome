@@ -11,6 +11,7 @@ Welcome to CoLab engineering! This repo is your entry point into the CoLab ecosy
 - [Finding Relevant Repos](#find)
 - [Managing Code](#mgmt)
 - [Starting New Projects](#new)
+- [Dev Ops](#devops)
 - [Improving Ourselves](#improvement)
 - [Discovering New Tools](#tools)
 - [Feedback](#feedback)
@@ -61,6 +62,10 @@ Each repo contains its own install and usage instructions.
 - **Repo Link**: [forkable-js-react-static](https://github.com/IDEO-coLAB/forkable-js-react-static)
 - **Repo Description**: The CoLab's base repo for creating new static React sites (This means that the project does not include any server component to it and is expected to be bundled and served from somewhere).
 - **When to Use**: Any time you're creating a new static React project for the CoLab.
+
+<br/>
+## <a name="devops"></a>Devops
+Devops has its own docs repo: [`docs-devops`](https://github.com/IDEO-coLAB/docs-devops)
 
 <br/>
 ## Improving Ourselves
