@@ -11,7 +11,7 @@ Welcome to CoLab engineering! This repo is your entry point into the CoLab ecosy
 - [Finding Relevant Repos](#find)
 - [Managing Code](#mgmt)
 - [Starting New Projects](#new)
-- [Dev Ops](#devops)
+- [Devops](#devops)
 - [Improving Ourselves](#improvement)
 - [Discovering New Tools](#tools)
 - [Feedback](#feedback)
